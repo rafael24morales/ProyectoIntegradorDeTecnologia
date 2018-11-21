@@ -27,7 +27,7 @@ public class Principal {
                 + "Integradora----------------");
         do{
             System.out.println("Ingresa la opción deseada"
-                    + "\n   1) Añadir computadoras"
+                    + "\n   1) Añadir computadorashakjfhsjkdhfkjsdhf"
                     + "\n   2) Revisar la lista"
                     + "\n   3) Modificar en la lista"
                     + "\n   4) Eliminar"
