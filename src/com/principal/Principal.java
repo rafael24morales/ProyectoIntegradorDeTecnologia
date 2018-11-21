@@ -77,7 +77,6 @@ public class Principal {
         for(Computadora compu : listaDeCompus){
             System.out.println(compu);
         }
-        System.out.println("HOLA MUNDO XDXD");
     }
     
 }
