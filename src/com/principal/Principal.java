@@ -27,7 +27,7 @@ public class Principal {
                 + "Integradora----------------");
         do{
             System.out.println("Ingresa la opción deseada"
-                    + "\n   1) Añadir computadora"
+                    + "\n   1) Añadir computadoras"
                     + "\n   2) Revisar la lista"
                     + "\n   3) Modificar en la lista"
                     + "\n   4) Eliminar"
@@ -77,6 +77,7 @@ public class Principal {
         for(Computadora compu : listaDeCompus){
             System.out.println(compu);
         }
+        System.out.println("HOLA MUNDO XDXD");
     }
     
 }
